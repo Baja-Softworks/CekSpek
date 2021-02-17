@@ -1,6 +1,6 @@
 # 🖥️ CekSpek 
 Aplikasi Cek Spesifikasi PC <br>
-[![GitHub release](https://img.shields.io/github/release/Baja-Softworks/CekSpek-Software.svg)](https://GitHub.com/B4Lee/TontonanKu/releases/)
+<b>Download Versi Terbaru Disini!</b> [![GitHub release](https://img.shields.io/github/release/Baja-Softworks/CekSpek-Software.svg)](https://GitHub.com/Baja-Softworks/CekSpek-Software/releases/)
 
 ### Bantuan, Lapor Bug, dan Kritik dan Saran
 
