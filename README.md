@@ -5,7 +5,7 @@
 ![Thumb1](/assets/thumb/1.png "CekSpek - Aplikasi Cek Spesifikasi PC")
 
 Size: 57 MB  
-Version: v1.1.1 | [Changelog](https://github.com/Baja-Softworks/CekSpek-Software/releases)
+Version: v1.1.1 | [Changelog](https://github.com/Baja-Softworks/CekSpek-Software/releases)<br />
 Tanggal Rilis: 1 Februari 2021  
 Sistem Operasi (OS): Windows 10  
 Developer: Iqbal Anggoro  
