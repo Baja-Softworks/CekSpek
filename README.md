@@ -10,17 +10,16 @@
 
 *   **Size: 57 MB**
 
-*   **Version:** [![GitHub release](https://img.shields.io/github/release/Baja-Softworks/CekSpek.svg)](#)
+*   **Version:** [![GitHub release](https://img.shields.io/github/release/Baja-Softworks/CekSpek.svg)](https://github.com/Baja-Softworks/CekSpek/releases/tag/v1.1.2) | **Downloads**: [![Downloaded](https://img.shields.io/github/downloads/Baja-Softworks/CekSpek/latest/total?color=0078d7)](#)
 
 *   **Tanggal Rilis: 1 Februari 2021** [![GitHub release](https://img.shields.io/github/release-date/Baja-Softworks/CekSpek?color=0078d7)](#)
 
 *   **Platform: Windows** [![Windows](https://img.shields.io/badge/platform-Windows-0078d7.svg)](#)
 
-*   **Downloads**: [![Downloaded](https://img.shields.io/github/downloads/Baja-Softworks/CekSpek/latest/total?color=0078d7)](#)
 
 *   **Developer: Iqbal Anggoro** | **Assets by Arya Nur Wiguna**
 
-### [Download disini!](https://github.com/Baja-Softworks/CekSpek-Software/releases/download/v1.1.1/CekSpek---Aplikasi-Cek-Spesifikasi-PC-Setup-1.1.1.exe)
+### [Download disini!](https://github.com/Baja-Softworks/CekSpek/releases/download/v1.1.2/CekSpek-Setup-1.1.2.exe)
 
 * * *
 
