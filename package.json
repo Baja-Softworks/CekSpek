@@ -1,0 +1,67 @@
+{
+  "name": "cekspek",
+  "productName": "CekSpek",
+  "version": "1.1.2",
+  "description": "Aplikasi Desktop untuk Cek Spesifikasi PC",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "dev": "nodemon --exec electron .",
+    "deploy": "git subtree push --prefix src origin gh-pages",
+    "build": "electron-builder",
+    "release": "electron-builder --publish always"
+  },
+  "build": {
+    "appId": "com.bajasoftworks.cekspek",
+    "directories": {
+      "output": "app/build/${version}"
+    },
+    "win": {
+      "publisherName": "Baja Softworks",
+      "verifyUpdateCodeSignature": false,
+      "icon": "app/img/icons.ico",
+      "publish": [
+        {
+          "provider": "github",
+          "owner": "Baja-Softworks",
+          "repo": "CekSpek"
+        }
+      ],
+      "target": [
+        "nsis"
+      ],
+      "requestedExecutionLevel": "requireAdministrator"
+    },
+    "nsis": {
+      "installerIcon": "app/img/icons.ico",
+      "uninstallerIcon": "app/img/icons.ico",
+      "uninstallDisplayName": "CekSpek - Aplikasi Desktop untuk Cek Spesifikasi PC",
+      "license": "lisensi_id.txt",
+      "perMachine": true,
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Baja-Softworks/CekSpek-src.git"
+  },
+  "author": "Iqbal Anggoro",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^11.1.1",
+    "electron-builder": "^22.9.1",
+    "electron-packager": "^15.2.0",
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "electron-log": "^4.3.1",
+    "electron-main-window": "^1.0.4",
+    "electron-progressbar": "^2.0.0",
+    "electron-updater": "^4.3.5",
+    "electron-util": "^0.14.2",
+    "node-os-utils": "^1.3.2",
+    "systeminformation": "^4.34.5"
+  }
+}

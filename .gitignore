@@ -1,0 +1,11 @@
+.DS_Store
+
+app/build/
+
+app/dev/
+
+/node_modules
+
+dev-app-update.yml
+
+package-lock.json
